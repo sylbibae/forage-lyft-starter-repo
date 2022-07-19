@@ -11,4 +11,4 @@ class OctoprimeTires(Tires):
         if sum >= 3:
             return True
         else:
-            return False
+            return False 
